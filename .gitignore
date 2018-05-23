@@ -41,3 +41,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/.project
+/.settings
+/.gitattributes
+/socket-client/.project
+/socket-client/.settings
+/socket-client/target
+/socket-client/.classpath
+/socket-server/.project
+/socket-server/.settings
+/socket-server/target
+/socket-server/.classpath
